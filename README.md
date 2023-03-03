@@ -2,6 +2,6 @@
 
 Название|Описание | Стек
 -----------|:-------:|:--------: 
-[Основные метрики](https://github.com/davyandr/pet-projects/tree/main/metrics)| Рассчет метрик, их визуализация с помощью Postgres и Seaborn| PostgreSQL, pandas, seaborn
-[Анализ велозаездов](https://github.com/davyandr/pet-projects/tree/main/strava)| Визуализация данных о заездах в [Tableau](https://public.tableau.com/app/profile/andrey.davydov/viz/Strava_16774321643960/Stravadashboard) | Tableau, pandas
-[A/B](https://github.com/davyandr/pet-projects/tree/main/ab)| Анализ нескольких a/b тестов| Pandas, scipy, statsmodels
+[Рассчет основных метрик](https://github.com/davyandr/pet-projects/tree/main/metrics)| Были рассчитаны основные метрики с помощью Postgres. Визуализированы в seaborn| PostgreSQL, pandas, seaborn
+[Анализ своих велозаездов в Strava](https://github.com/davyandr/pet-projects/tree/main/strava)| Выгружены данный с strava, очищены в python, создан дашборд в [Tableau](https://public.tableau.com/app/profile/andrey.davydov/viz/Strava_16774321643960/Stravadashboard) | Tableau, pandas
+[Анализ A/B тестов](https://github.com/davyandr/pet-projects/tree/main/ab)|На основе датасетов из открытых источников был произведен анализ нескольких а/б тестов и сформулированы выводы| Pandas, scipy, statsmodels
